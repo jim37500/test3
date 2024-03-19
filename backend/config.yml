@@ -1,0 +1,1 @@
+CONNECTIONSTRING: root:abcd@1234@tcp(127.0.0.1:33306)/test?charset=utf8mb4&parseTime=True&loc=Local
